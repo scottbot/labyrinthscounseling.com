@@ -1,6 +1,9 @@
 ---
+layout: base.njk
 title: Home
 ---
-# Hello from Eleventy
+# Hello
 
-This is my Eleventy site on GitHub Pages.
+This is my homepage.
+
+I can write normal Markdown here.
