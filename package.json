@@ -1,0 +1,27 @@
+{
+  "name": "labyrinthscounseling.com",
+  "version": "1.0.0",
+  "description": "Labyrinths Counseling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/labyrinthscounseling.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottbot/labyrinthscounseling.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/scottbot/labyrinthscounseling.com/issues"
+  },
+  "homepage": "https://github.com/scottbot/labyrinthscounseling.com#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5"
+  }
+}
