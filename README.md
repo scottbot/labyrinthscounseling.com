@@ -1,0 +1,2 @@
+# labyrinthscounseling.com
+Labyrinths Counseling
